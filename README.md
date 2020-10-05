@@ -2,7 +2,7 @@
 UBWH has developed an enhanced version of [Tasmota](https://tasmota.github.io/docs/ "Tasmota") with additional features making it better suited for use by IT professionals.
 
 ## Why Tasmota?
-[Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things "IoT") (IoT) devices are Internet-connected smart appliances. 
+[Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things "IoT"){:target="_blank"} (IoT) devices are Internet-connected smart appliances. 
 
 Unfortunately, many IoT devices are controlled via a cloud server; commonly in China. Also, there is generally no way to control these devices using remote commands from (e.g.) a PHP script running on a separate computer.
 
