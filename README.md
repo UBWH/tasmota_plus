@@ -14,7 +14,7 @@ Tasmota devices work differently; they are controlled via
 1. [openHAB]()
 1. [Many others...](https://tasmota.github.io/docs/Integrations/)
   
-## Enhancements
+## Why Tasmota Plus?
 **Tasmota Plus** has these enhancements over Tasmota.
 | Feature                        | Comment       
 | :------------------------------|:-------------| 
@@ -25,8 +25,10 @@ Tasmota devices work differently; they are controlled via
 | Ping watchdogs                 | Enabling cycling of socket power if pings to a nominated IP address fail
 
 ## Products Available with Tasmota Plus
-1. SP-Plug-AU:
-1. SP-Strip-AU: 
+| Part Number                     | Description | Image       
+| :------------------------------|:-------------|-------- 
+| [SP-Plug-AU](https://ubwh.com.au/SP-Plug-AU) | A single-outlet, voltage and power monitoring Australian Smart Plug. | 
+| [SP-Strip-AU](https://ubwh.com.au/SP-Strip-AU) | A 4-outlet Australian Smart Power Strip. | 
 
 ## Firmware Downloads and Instructions
 tba
