@@ -34,10 +34,10 @@ Tasmota devices work differently; they are controlled via
 ### Firmware Download URLs
 
 * __SP-Plug-AU__
-  * http://ubwh.com.au/tasmota/SP-Plug-AU/tasmota.bin.gz
+  * http://ubwh.com.au/tasmota/Tasmota-Plus/tasmota-SP-Plug.bin.gz
 
 * __SP-Strip-AU__
-  * http://ubwh.com.au/tasmota/SP-Strip-AU/tasmota.bin.gz
+  * http://ubwh.com.au/tasmota/Tasmota-Plus/tasmota-SP-Strip.bin.gz
 
 ### Instructions
 There are two ways to upgrade the firmware: 
