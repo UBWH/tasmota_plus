@@ -29,6 +29,7 @@ Tasmota devices work differently; they are controlled via
 | :------------------------------|:-------------|-------- 
 | [SP-Plug-AU](https://ubwh.com.au/SP-Plug-AU) | A single-outlet, voltage and power monitoring Australian Smart Plug. | <img src="images/SP-Plug-AU.jpg" width="200px">
 | [SP-Strip-AU](https://ubwh.com.au/SP-Strip-AU) | A 4-outlet Australian Smart Power Strip. | <img src="images/SP-Strip-AU_01.png" width="200px">
+| [SS-4CHPro](https://ubwh.com.au/SS-4CHPro) | A 4-channel Smart Relay/Switch | <img src="images/SS-4CHpro.png" width="200px">
 
 ## Firmware Downloads and Upgrade Instructions
 ### Firmware Download URLs
@@ -38,6 +39,9 @@ Tasmota devices work differently; they are controlled via
 
 * __SP-Strip-AU__
   * http://ubwh.com.au/tasmota/Tasmota-Plus/tasmota-SP-Strip.bin.gz
+
+* __SS-4CHPro__
+  * http://ubwh.com.au/tasmota/Tasmota-Plus/tasmota-SS-4CHPro.bin.gz
 
 ### Instructions
 There are two ways to upgrade the firmware: 
