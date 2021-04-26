@@ -38,15 +38,17 @@ Tasmota devices work differently; they are controlled via
 ### Firmware Download URLs
 
 * __SP-Plug-AU__
-  * http://ubwh.com.au/tasmota/Tasmota-Plus/SP-Plug-ReleaseNotes.php
+  * https://ubwh.com.au/tasmota/Tasmota-Plus/SP-Plug-ReleaseNotes.php
 
 * __SP-Strip-AU__
-  * http://ubwh.com.au/tasmota/Tasmota-Plus/SP-Strip-ReleaseNotes.php
+  * https://ubwh.com.au/tasmota/Tasmota-Plus/SP-Strip-ReleaseNotes.php
 * __SS-1CHPro__
-  * http://ubwh.com.au/tasmota/Tasmota-Plus/SS-1CHPro-ReleaseNotes.php
+  * https://ubwh.com.au/tasmota/Tasmota-Plus/SS-1CHPro-ReleaseNotes.php
 
 * __SS-4CHPro__
-  * http://ubwh.com.au/tasmota/Tasmota-Plus/SS-4CHPro-ReleaseNotes.php
+  * https://ubwh.com.au/tasmota/Tasmota-Plus/SS-4CHPro-ReleaseNotes.php
+* __SG-TEMP__
+  * https://ubwh.com.au/tasmota/Tasmota-Plus/SG-TEMP-ReleaseNotes.php
 
 ### Instructions
 There are two ways to upgrade the firmware: 
