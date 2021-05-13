@@ -31,7 +31,9 @@ Tasmota devices work differently; they are controlled via
 | [SP-Strip-AU](https://ubwh.com.au/SP-Strip-AU) | A 4-outlet Australian Smart Power Strip. | <img src="images/SP-Strip-AU_01.png" width="200px">
 | [SS-1CHPro](https://ubwh.com.au/SS-1CHPro) | A 1-channel Smart Relay/Switch | <img src="images/SS-1CHPro.png" width="200px">
 | [SS-4CHPro](https://ubwh.com.au/SS-4CHPro) | A 4-channel Smart Relay/Switch | <img src="images/SS-4CHPro.jpg" width="200px">
-| [SG-TEMP](https://ubwh.com.au/SG-TEMP) | A Smart Temperture sensor | <img src="https://ubwh.com.au/images/SG-TEMP_01.jpg" width="200px">
+| [SG-TEMP](https://ubwh.com.au/SG-TEMP) | A Smart Temperature sensor | <img src="https://ubwh.com.au/images/SG-TEMP_01.jpg" width="200px">
+| [SG-RANGE](https://ubwh.com.au/SG-RANGE) | A Smart Ultrasonic Range Funder | <img src="https://ubwh.com.au/images/SG-RANGE.png" width="200px">
+
 
 
 ## Firmware Downloads and Upgrade Instructions
@@ -49,6 +51,10 @@ Tasmota devices work differently; they are controlled via
   * https://ubwh.com.au/tasmota/Tasmota-Plus/SS-4CHPro-ReleaseNotes.php
 * __SG-TEMP__
   * https://ubwh.com.au/tasmota/Tasmota-Plus/SG-TEMP-ReleaseNotes.php
+* __SG-RANGE__
+  * https://ubwh.com.au/tasmota/Tasmota-Plus/SG-RANGE-ReleaseNotes.php
+
+
 
 ### Instructions
 There are two ways to upgrade the firmware: 
